@@ -6,10 +6,14 @@
 
 	* date, country, channel, n_tickets
 
-* The script can be found in:
+* The script:
 
 	* notebook/flixbus.ipynb
 
-* The output can be found in:
+* The output:
 
 	* output.csv
+   
+* The short presentation::
+
+	* presentation-flixbus.pdf
